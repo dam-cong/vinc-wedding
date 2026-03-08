@@ -1,1 +1,103 @@
-{"68ede80771dacf0011005bee":[{"id":"68ede82c71dacf0011005d4a","created_at":"2025-10-14T06:05:32.718Z","updated_at":"2025-10-14T06:05:32.718Z","name":3,"cac_tinh_nang":"Số Lượng ảnh","basic":"20 ảnh","premium":"50 ảnh"},{"id":"68ede82c71dacf0011005d4b","created_at":"2025-10-14T06:05:32.718Z","updated_at":"2025-10-14T06:05:32.718Z","name":4,"cac_tinh_nang":"Hiệu ứng và nhạc nền","basic":"✔","premium":"✔"},{"id":"68ede82c71dacf0011005d49","created_at":"2025-10-14T06:05:32.718Z","updated_at":"2025-10-14T06:05:32.718Z","name":1,"cac_tinh_nang":"Hỗ trợ thiết kế chỉnh sửa từ A - Z","basic":"✔","premium":"✔"},{"id":"68ede82c71dacf0011005d4c","created_at":"2025-10-14T06:05:32.718Z","updated_at":"2025-10-14T06:05:32.718Z","name":2,"cac_tinh_nang":"Thông tin cưới hỏi của Chú Rể và Cô Dâu","basic":"✔","premium":"✔"},{"id":"68ede82c71dacf0011005d4d","created_at":"2025-10-14T06:05:32.718Z","updated_at":"2025-10-14T06:05:32.718Z","name":"5","cac_tinh_nang":"Hộp mừng cưới (Thông tin chuyển khoản, QR code)","basic":"✔","premium":"✔"},{"id":"68ede82c71dacf0011005d4e","created_at":"2025-10-14T06:05:32.718Z","updated_at":"2025-10-14T06:05:32.718Z","name":6,"cac_tinh_nang":"Thời gian công khai thiệp cưới","basic":"6 Tháng","premium":"2 Năm"},{"id":"68ede82c71dacf0011005d4f","created_at":"2025-10-14T06:05:32.718Z","updated_at":"2025-10-14T06:05:32.718Z","name":"9","cac_tinh_nang":"Đếm ngược thời gian ngày cưới","basic":"❌","premium":"✔"},{"id":"68ede82c71dacf0011005d51","created_at":"2025-10-14T06:05:32.718Z","updated_at":"2025-10-14T06:05:32.718Z","name":"7","cac_tinh_nang":"Google Maps chỉ dẫn đến tận nơi","basic":"❌","premium":"✔"},{"id":"68ede82c71dacf0011005d50","created_at":"2025-10-14T06:05:32.718Z","updated_at":"2025-10-14T06:05:32.718Z","name":"11","cac_tinh_nang":"Tải lên bài hát yêu thích","basic":"❌","premium":"✔"},{"id":"68ede82c71dacf0011005d52","created_at":"2025-10-14T06:05:32.718Z","updated_at":"2025-10-14T06:05:32.718Z","name":"10","cac_tinh_nang":"Ghi tên khách mời trong thiệp cưới  không giới hạn","basic":"❌","premium":"✔"},{"id":"68ede82c71dacf0011005d53","created_at":"2025-10-14T06:05:32.718Z","updated_at":"2025-10-14T06:05:32.718Z","name":"8","cac_tinh_nang":"Quản lý lời chúc và xác nhận tham dự","basic":"❌","premium":"✔"}]}
+{
+    "68ede80771dacf0011005bef": [
+        {
+            "id": "68ede82c71dacf0011005d4a",
+            "created_at": "2025-10-14T06:05:32.718Z",
+            "updated_at": "2025-10-14T06:05:32.718Z",
+            "name": 3,
+            "cac_tinh_nang": "Số Lượng ảnh",
+            "basic": "15 ảnh",
+            "premium": "40 ảnh"
+        },
+        {
+            "id": "68ede82c71dacf0011005d4b",
+            "created_at": "2025-10-14T06:05:32.718Z",
+            "updated_at": "2025-10-14T06:05:32.718Z",
+            "name": 4,
+            "cac_tinh_nang": "Hiệu ứng và nhạc nền",
+            "basic": "✔",
+            "premium": "✔"
+        },
+        {
+            "id": "68ede82c71dacf0011005d49",
+            "created_at": "2025-10-14T06:05:32.718Z",
+            "updated_at": "2025-10-14T06:05:32.718Z",
+            "name": 1,
+            "cac_tinh_nang": "Hỗ trợ thiết kế chỉnh sửa từ A - Z",
+            "basic": "✔",
+            "premium": "✔"
+        },
+        {
+            "id": "68ede82c71dacf0011005d4c",
+            "created_at": "2025-10-14T06:05:32.718Z",
+            "updated_at": "2025-10-14T06:05:32.718Z",
+            "name": 2,
+            "cac_tinh_nang": "Thông tin cưới hỏi của Chú Rể và Cô Dâu",
+            "basic": "✔",
+            "premium": "✔"
+        },
+        {
+            "id": "68ede82c71dacf0011005d4d",
+            "created_at": "2025-10-14T06:05:32.718Z",
+            "updated_at": "2025-10-14T06:05:32.718Z",
+            "name": "5",
+            "cac_tinh_nang": "Hộp mừng cưới (Thông tin chuyển khoản, QR code)",
+            "basic": "✔",
+            "premium": "✔"
+        },
+        {
+            "id": "68ede82c71dacf0011005d4e",
+            "created_at": "2025-10-14T06:05:32.718Z",
+            "updated_at": "2025-10-14T06:05:32.718Z",
+            "name": 6,
+            "cac_tinh_nang": "Thời gian công khai thiệp cưới",
+            "basic": "4 Tháng",
+            "premium": "1 Năm"
+        },
+        {
+            "id": "68ede82c71dacf0011005d4f",
+            "created_at": "2025-10-14T06:05:32.718Z",
+            "updated_at": "2025-10-14T06:05:32.718Z",
+            "name": "9",
+            "cac_tinh_nang": "Đếm ngược thời gian ngày cưới",
+            "basic": "❌",
+            "premium": "✔"
+        },
+        {
+            "id": "68ede82c71dacf0011005d51",
+            "created_at": "2025-10-14T06:05:32.718Z",
+            "updated_at": "2025-10-14T06:05:32.718Z",
+            "name": "7",
+            "cac_tinh_nang": "Google Maps chỉ dẫn đến tận nơi",
+            "basic": "❌",
+            "premium": "✔"
+        },
+        {
+            "id": "68ede82c71dacf0011005d50",
+            "created_at": "2025-10-14T06:05:32.718Z",
+            "updated_at": "2025-10-14T06:05:32.718Z",
+            "name": "11",
+            "cac_tinh_nang": "Tải lên bài hát yêu thích",
+            "basic": "❌",
+            "premium": "✔"
+        },
+        {
+            "id": "68ede82c71dacf0011005d52",
+            "created_at": "2025-10-14T06:05:32.718Z",
+            "updated_at": "2025-10-14T06:05:32.718Z",
+            "name": "10",
+            "cac_tinh_nang": "Ghi tên khách mời trong thiệp cưới  không giới hạn",
+            "basic": "❌",
+            "premium": "✔"
+        },
+        {
+            "id": "68ede82c71dacf0011005d53",
+            "created_at": "2025-10-14T06:05:32.718Z",
+            "updated_at": "2025-10-14T06:05:32.718Z",
+            "name": "8",
+            "cac_tinh_nang": "Quản lý lời chúc và xác nhận tham dự",
+            "basic": "❌",
+            "premium": "✔"
+        }
+    ]
+}
